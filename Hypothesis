@@ -1,9 +1,11 @@
 Month of december have highest sales because of christmas. --> True
 2016 will record lowest number of sales because of earthquake. --> False
 Oil price is directly proportion to the sales in Ecuador. --> False
-Weekend days will have highest number of transactions and sales. --> True
+Weekend days will have highest number of sales. --> True
+Weekend days will have highest number of transactions. --> True
 Product family which are on promotion will have more sales. --> True
 Store in same type have same sales pattern. --> Can't say
 Store in same cluster have same sales pattern. --> Can't say
-Oil price suddenly decreased in 2016 as Ecuador was heavily affected by earthquake. --> True
-Sales increases after 15th and last date of the monthe as wages are paid in public sector. 
+Oil price suddenly decreased in 2016 as Ecuador was heavily affected by earthquake. --> False
+Sales increases after 15th and last date of the month as wages are paid in public sector. --> True
+
